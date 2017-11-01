@@ -1,0 +1,2 @@
+nbre;nom_sauv;source;destination;complete;historiquemax;type_sauv
+1;SAUV_SRV;SERVEUR;\\127.0.0.1\backup$\;oui;1;wbadmin

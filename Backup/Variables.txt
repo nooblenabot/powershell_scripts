@@ -1,0 +1,9 @@
+host
+backup_folder
+smtp
+25
+0
+
+
+mail_from
+mail_to
